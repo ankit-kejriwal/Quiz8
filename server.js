@@ -172,7 +172,7 @@ app.get('/agents',(req,res)=>{
  *   Foods:
  *     properties:
  *       itemid:
- *         type: string
+ *         type: number
  *       itemname:
  *         type: string
  *       itemunit:
